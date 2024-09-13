@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently working on graduating highschool and preparing for college. I am learning Python currently and am looking to collaborate on game programming.
+I'm Ben Sherlock, a beginner Python developer. I'm currently working on graduating highschool and preparing for college. I am learning Python currently and am looking make a career in programming or cyber security.
 
 <!--
 **bsherlock1/bsherlock1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,19 +17,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I have one dog, Layla.
 -->
 
-I'm Ben Sherlock, a beginner Python developer. You can contact me at: gci.241147@students.geneseeisd.org
-<p align='center'> 
 
-   <a href="https://github-readme-stats.vercel.app/api?username=bsherlock1&show_icons=true&count_private=true"> 
+<p align='center'>You can contact me at: <a href="gci.241147@geneseeisd.org">gci.241147@geneseeisd.org</a>
 
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true"/> 
+<p align='center'>
+   https://www.linkedin.com  
+   
+<p align="center">
+   <a href="https://github-readme-stats.vercel.app/api?username=bsherlock1&show_icons=true&count_private=true">Github Readme Stats</a>
 
-   </a> 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bsherlock1&show_icons=true&count_private=true" alt="Readme Stats" width="400"/>
+</div>   
 
-   <a href="https://github.com/yourusername/github-readme-stats"> 
+### 🛠 Technology Stack 
 
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact"/> 
-
-   </a> 
-
-</p> 
+* Python 
+* VScode
